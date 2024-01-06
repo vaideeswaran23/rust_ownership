@@ -12,7 +12,7 @@ fn main() {
         email: String::from("vaideeswaran23@gmail.com"),
     };
 
-    println!("{vaidee}")
+    println!("{vaidee}");
 }
 
 fn calculate_length(s: &String) -> usize {
