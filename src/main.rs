@@ -23,5 +23,5 @@ fn calculate_length(s: &String) -> usize {
 struct Vaidee {
     age: i32,
     height: i32,
-    email: String,
+    email: String
 }
